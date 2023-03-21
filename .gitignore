@@ -49,3 +49,5 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+usb_cam/.vscode/c_cpp_properties.json
+usb_cam/.vscode/settings.json
