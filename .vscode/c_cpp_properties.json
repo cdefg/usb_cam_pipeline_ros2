@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/wly/camera_ws2/install/image_proc/include/**",
+        "/home/wly/camera_ws2/install/tracetools_image_pipeline/include/**",
+        "/home/wly/nav_ws2/install/starneto_msgs/include/**",
+        "/opt/ros/galactic/include/**",
+        "/home/wly/camera_ws2/src/image_proc/include/**",
+        "/home/wly/camera_ws2/src/tracetools_image_pipeline/include/**",
+        "/home/wly/camera_ws2/src/usb_cam/include/**",
+        "/home/wly/camera_ws2/usb_cam_pipeline_ros2/image_proc/include/**",
+        "/home/wly/camera_ws2/usb_cam_pipeline_ros2/tracetools_image_pipeline/include/**",
+        "/home/wly/camera_ws2/usb_cam_pipeline_ros2/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
